@@ -22,26 +22,9 @@ Here’s an overview of our active teams and projects:
 | **Backend Development** | APIs, databases & security | [Backend Repo](#) |
 | **Machine Learning & AI** | AI models & automation | [AI/ML Repo](#) |
 | **Game Development** | Unity & Unreal Engine projects | [Game Dev Repo](#) |
-| **Embedded Systems** | IoT & hardware projects | [Embedded Repo](#) |
 | **Mobile Development** | Flutter & Android/iOS apps | [Mobile Repo](#) |
-| **Cybersecurity & DevOps** | Cloud, networking & security | [CyberSec Repo](#) |
+| **Data Analysis** | Exploratory data analysis, dashboards & insights | [Data Analysis Repo](#) |
 
----
-
-## 🔥 **How to Get Started?**  
-1. **Fork** the repository of the project you want to contribute to.  
-2. **Clone** it to your local machine.  
-3. Create a new branch for your feature or fix:  
-   ```bash
-   git checkout -b feature-branch
-   ```  
-4. Make your changes and commit them:  
-   ```bash
-   git commit -m "Add a new feature"
-   ```  
-5. Push to your branch and create a **Pull Request (PR)**.  
-
-> 📌 **Tip:** Check our [Contributing Guidelines](#) before making any PRs!  
 
 ---
 
@@ -51,13 +34,6 @@ We welcome contributions from all members! Follow these steps:
 📌 **Follow best practices for coding & documentation.**  
 📌 **Review and test your code before submitting PRs.**  
 📌 **Respect GitHub community guidelines.**  
-
-🔗 **Check out the detailed [Contribution Guide](#)**  
-
----
-
-## 📜 **Code of Conduct**  
-To maintain a professional and friendly environment, all members must adhere to our [Code of Conduct](#).  
 
 ---
 
