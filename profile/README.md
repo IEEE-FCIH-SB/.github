@@ -49,8 +49,8 @@ Stay connected with us!
 Huge thanks to our **IEEE FCIH 2025 Team** & all contributors for making this an amazing community! 🙌  
 
 🔹 **IEEE FCIH Official Website**: [Visit](#)  
-🔹 **Follow us on LinkedIn**: [IEEE FCIH](#)  
-🔹 **Join our Facebook Group**: [IEEE FCIH Community](#)  
+🔹 **Follow us on LinkedIn**: [IEEE FCIH](https://www.linkedin.com/company/ieee-fcih-sb)  
+🔹 **Join our Facebook Group**: [IEEE FCIH Community](https://www.facebook.com/IEEE.FCIH)  
 
 ---
 
