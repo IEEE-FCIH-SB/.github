@@ -45,8 +45,9 @@ Each academic year, IEEE FCIH runs a new **season** with fresh projects, activit
 > 📌 _We regularly update this section with links to past and current season repositories._  
 
 ---
+## 🌍 **Connect With IEEE FCIH**  
+Stay updated and follow us on:  
 
-## 📧 **Contact & Community**  
 🌍 **Official Website**: https://www.ieeefcih.com (Currently under maintenance 🚧) <br/>
 📱 **Facebook**: https://www.facebook.com/IEEE.FCIH <br/>
 👔 **Linkedin**: https://www.linkedin.com/company/ieee-fcih-sb <br/>
